@@ -1,4 +1,4 @@
-## WTchat
+# WTchat
 
 Welcome to WT-Chat! This project is built using React.js and Chat Engine to provide a real-time messaging platform. Below you'll find detailed information about the project, how to set it up, and how to contribute.
 
